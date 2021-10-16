@@ -119,6 +119,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [lelemaine channel :brazil:](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") **(Tecnologia)** Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e centivar mulheres a ingressar nessa área.
 
 - [Liara Programadora :brazil:](https://www.youtube.com/channel/UCkjlpKaG0SUeCQso6Lt2gbg "Canal do Youtube de Liara Programadora") **(Tecnologia)** Conteúdo de programação voltado para o frontend.
+
 - [London App Brewery  :us: ](https://www.youtube.com/c/Londonappbrewery/playlists "Canal do Youtube com foco em Mobile")**(Mobile)** Canal com foco em tecnologias para desenvolvimento Mobile. 
 
 - [Miriam TechCod :brazil:](https://www.youtube.com/channel/UCBJKi6wqJPj0wEU4U2bf_Bg "Canal do Youtube da Miriam TechCod") **(Programação)** Vídeos sobre algoritmos, PHP e C#.
