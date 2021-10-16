@@ -6,6 +6,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 ## Canais de comunidades :star:
 
+- [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos)  **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
+
 - [Cloud Girls :brazil:](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 
 - [Code First Girls :us:](https://www.youtube.com/channel/UCi9uPFzIg0eegj4ZFE3Co3w/videos "Canal do Youtube da Code First Girls") **(Tecnologia)** Comunidade que posta lives sobre tecnologia no geral.
@@ -53,6 +55,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Cah Felix :brazil:](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") **(HTML/CSS)** Cursos de HTML e CSS para iniciantes.
 
 - [Dani Academy :brazil:](https://dani.academy/ "Dani Academy") **(Bancos de dados)** Cursos sobre MongoDB
+
+- [Elas Programam :brazil:] (https://www.sympla.com.br/curso-introducao-front-end-saindo-do-zero-exclusivo-para-mulheres__1365786) **(Front-End)** Curso Introdução ao Front-End Saindo do Zero: Exclusivo para Mulheres. HTML, CSS e JavaScript.
 
 - [Ellen Körbes :brazil:](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") **(Go)** Curso para aprender a programar com GO.
 
@@ -102,6 +106,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Fernanda Schleier :brazil:](https://www.youtube.com/channel/UCKVZCTazZOa7hdcVT3V1DVQ "Fernanda Schleier") **(Pensamento computacional)** Vídeos sobre Pensamento Computacional e explicação de termos da área de tecnologia.
 
+- [Freya Holmér :us:](https://www.youtube.com/c/Acegikmo/featured)  **(Games, Computação Gráfica)** Vídeos sobre desenvolvimento de jogos, computação gráfica e matemática voltada para jogos.
+
 - [Glaucia Lemos :brazil:](https://www.youtube.com/user/l32759 "Canal do Youtube da Glaucia Lemos") **(Programação)** Vídeos de programação com Node, Typescript, C#, AngularJS e Vue.
 
 - [Guria de T.I :brazil:](https://www.youtube.com/channel/UCISLkieyNFB_fHMgdBNGW0g "Guria de T.I.") **(Tecnologia)** Canal sobre o mundo da programação.
@@ -124,6 +130,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Punk do DevOps :brazil:](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") **(DevOps)** Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral.
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
+
+- [Tina Huang :us:](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww "Canal do YouTube de Tina Huang") **(Carreira)** Canal sobre carreira, estudos e Data Science.
 
 - [Trans de Programa :brazil:](https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA/videos "Trans de Programa") **(Firebase, Diversidade)** Canal sobre Firebase e diversidade.
 
@@ -174,6 +182,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 ## Podcasters :studio_microphone:
 
 - [Compiladoras Cast :brazil:](https://anchor.fm/compiladoras "Podcast das Compiladoras de Cafeína") **(Tecnologia)** Discutimos sobre mulheres na tecnologia, carreiras e assuntos relacionados em podcasts divertidos e curtinhos.
+
+- [Elas Programam :brazil:](https://elasprogramam.com.br/#/podcast "Site elas Programam com os canais") **(Tecnologia)** Elas Programam é o primeiro podcast em português que conta a jornada de mulheres anônimas na tecnologia.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
